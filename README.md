@@ -1,2 +1,2 @@
-# codsoft_taskno1
+# codsoft_uiuxdesigntasks
 this is my ui ux tasks of Codsoft
